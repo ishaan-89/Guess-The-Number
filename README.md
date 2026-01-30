@@ -43,7 +43,6 @@ This project helped me understand:
 - Add sound effects
 - Mobile responsiveness
 
-## 👨‍💻 Author
 Made with ❤️ as part of my JavaScript learning journey.
 
 
